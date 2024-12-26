@@ -67,7 +67,7 @@ blog_section_path = "/posts"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/shandikadav" },
     { name = "Instagram", icon = "instagram", url = "https://instagram.com/shandikadav_" },
-    { name = "Linkedin", icon = "linkedin", url = "www.linkedin.com/in/shandika-david-ardiansyah-519b2621b" },
+    { name = "Linkedin", icon = "linkedin", url = "https://linkedin.com/in/shandika-david-ardiansyah-519b2621b" },
     { name = "Email", icon = "email", url = "mailto:shandikadavid.14@gmail.com" },
 ]
 
