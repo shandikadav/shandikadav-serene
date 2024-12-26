@@ -1,0 +1,48 @@
+{% extends "_base.html" %}
+
+{% block page %}projects{% endblock page %}
+{% block lang %}{% if section.extra.lang %}{{ section.extra.lang }}{% else %}{{ section.lang }}{% endif %}{% endblock lang %}
+{% block title %}{{ section.title }}{% endblock title %}
+{% block desc %}
+  <meta name="description" content="{{ section.description }}">
+{% endblock desc %}
+
+{% block content %}
+{% include "_header.html" %}
+<div id="wrapper">
+  <main>
+    {% set data = load_data(path="content" ~ section.path ~ "data.toml", format="toml") %}
+    {% for device in data.device %}
+    <div class="proj">
+      <div class="meta">
+        <div class="name">{{ device.name }}</div>
+        <div class="tags">
+          {% for tag in device.tags %}
+          <div><span>#</span>{{ tag }}</div>
+          {% endfor %}
+        </div>
+        <div class="links">
+          {% for link in device.links -%}
+          <a href="{{ link.url }}" target="_blank" rel='noreferrer noopener'>
+            <span>[</span>{{ link.name }}<span>]</span>
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="tags-narrow">
+        {% for tag in device.tags %}
+        <div><span>#</span>{{ tag }}</div>
+        {% endfor %}
+      </div>
+      <div class="content">
+        <div class="desc">{{ device.desc | trim | markdown | safe }}</div>
+        {% if device.img %}
+        <img src="{{ device.img }}" alt="{{ device.name }}" />
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </main>
+  {% include "_footer.html" -%}
+</div>
+{% endblock content %}
