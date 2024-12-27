@@ -11,4 +11,5 @@ lang = 'en'
 
 ## Writing & Social
 
-Tech geek who loves diving into **mobile dev** and **cloud computing**. Sharing cool tips and fresh trends while figuring out how to debug life. Let’s talk tech and build something awesome!
+Tech geek who loves diving into **mobile dev** and **cloud computing**. Sharing cool tips and fresh trends while figuring out how to debug life.
+<br><br>[MEDIUM](https://shanardiansyah.medium.com/) // [YOUTUBE](https://www.youtube.com/@shandikadav)
