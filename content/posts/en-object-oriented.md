@@ -1,10 +1,10 @@
 +++
-title = "Introduction to Object-Oriented Programming (OOP)"
+title = "Introduction to Dart Object-Oriented Programming (OOP)"
 date = 2024-12-26
 draft = false
 
 [taxonomies]
-categories = [ "programming - en" ]
+categories = [ "en - programming" ]
 tags = [ "programming", "dart", "flutter", "oop" ]
 +++
 
