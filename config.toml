@@ -95,7 +95,7 @@ nav_wrapper_left = "{"
 nav_wrapper_right = "} ;"
 nav_wrapper_separator = ","
 
-footer_copyright = "© 2024 Shandika David Ardiansyah"
+footer_copyright = "© 2025 Shandika David Ardiansyah"
 footer_credits = true                                 # Whether to show "powered by zola and serene" in footer
 
 not_found_title = "404"
