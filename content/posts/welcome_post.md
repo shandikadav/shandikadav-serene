@@ -4,7 +4,7 @@ date = 2024-12-27
 draft = false
 
 [taxonomies]
-categories = ["welcome"]
+categories = ["2024"]
 tags = ["blog", "welcome"]
 
 +++

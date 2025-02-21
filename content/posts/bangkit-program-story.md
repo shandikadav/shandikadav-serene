@@ -4,9 +4,8 @@ date = 2025-01-14
 draft = false
 
 [taxonomies]
-categories = ["id - stories"]
+categories = ["2025"]
 tags = ["blog", "bangkit"]
-
 +++
 
 ![img](https://assets-a1.kompasiana.com/items/album/2023/07/06/whatsapp-image-2023-07-06-at-11-14-46-pm-64a6e951e1a16713c0148fd2.jpeg?t=o&v=1200)

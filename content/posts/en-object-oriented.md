@@ -4,7 +4,7 @@ date = 2024-12-26
 draft = false
 
 [taxonomies]
-categories = [ "en - programming" ]
+categories = [ "2024" ]
 tags = [ "programming", "dart", "flutter", "oop" ]
 +++
 
