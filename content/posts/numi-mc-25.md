@@ -12,7 +12,7 @@ tags = [ "minecraft", "numi", "server", "ramadhan" ]
 
 Minecraft NUMI Ramadhan 2025 adalah event tahunan komunitas NUMI yang telah berjalan sejak 2018. Tahun ini, server akan resmi tersedia pada tanggal 1 Maret 2025, bertepatan dengan dimulainya bulan suci Ramadhan. Setelah vakum selama satu tahun, server ini menawarkan pengalaman survival yang lebih menantang dengan berbagai fitur unik yang dirancang untuk meningkatkan keseruan bermain.
 
-Tahun ini NUMI Ramadhan 2025 di inisiasi oleh KitsuneRyzer dan server didevelop oleh KitsuneRyzer, seigaMC dan juga Autodie_ dan untuk biaya hosting dari server didapat dari funding oleh para member NUMI. Untuk melihat progress funding server bisa melihat di Discord NUMI Community Indonesia.
+Tahun ini NUMI Ramadhan 2025 di inisiasi oleh **KitsuneRyzer** dan server didevelop oleh **KitsuneRyzer**, **seigaMC** dan juga **Autodie_** dan untuk biaya hosting dari server didapat dari funding oleh para member NUMI. Untuk melihat progress funding server bisa melihat di Discord NUMI Community Indonesia.
 
 ---
 
@@ -21,62 +21,70 @@ Tahun ini NUMI Ramadhan 2025 di inisiasi oleh KitsuneRyzer dan server didevelop 
 
 Saat development, server ini menggunakan versi latest yaitu versi 1.21.4 yang menghadirkan biome baru yaitu Pale Garden. Tidak memungkinkan jika terdapat update baru ketika server rilis nanti, maka server akan ikut terupdate.
 
-Fitur utama di server ini adalah Proximity Voice Chat, sehingga kamu diwajibkan untuk menggunakan [Minecraft Fabric](https://fabricmc.net/) dan menginstall Mod [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) agar dapat menggunakan fitur ini. Kamu juga bisa menggunakan [Modrinth](https://modrinth.com/) atau [Prism Launcher](https://prismlauncher.org/) jika memiliki Minecraft Original. server juga mendukung player crack, namun jika ingin menggunakan fitur proximity Jika kamu bisa cari sendiri ya tutorial untuk menginstalnya ya.
+Fitur utama di server ini adalah Proximity Voice Chat, sehingga kamu diwajibkan untuk menggunakan [Minecraft Fabric](https://fabricmc.net/) dan menginstall Mod [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) agar dapat menggunakan fitur ini. Kamu juga bisa menggunakan [Modrinth](https://modrinth.com/) atau [Prism Launcher](https://prismlauncher.org/) jika memiliki Minecraft Original. Server juga mendukung player crack, namun jika ingin menggunakan fitur proximity Jika kamu bisa cari sendiri tutorial untuk menginstalnya ya.
 
-Sama seperti NUMI Ramadhan 2023, server kali ini bersifat cross-platform. Sehingga kamu yang bermain di Bedrock tetap bisa bermain di server ini namun dengan limitasi yang ada, dikarenakan server ini based on Minecraft Java. Namun tenang saja, server ini dibuat se vanilla mungkin sehingga fitur-fitur tersebut tidak mengganggu balancing dari masing-masing platform.
+Sama seperti NUMI Ramadhan 2023, server kali ini bersifat **cross-platform**. Sehingga kamu yang bermain di Bedrock tetap bisa bermain di server ini namun dengan limitasi yang ada, dikarenakan server ini based on Minecraft Java. Namun tenang saja, server ini dibuat se vanilla mungkin sehingga fitur-fitur tersebut tidak mengganggu balancing dari masing-masing platform.
+
+---
 
 ## Fitur Utama
-![img](https://media.discordapp.net/attachments/1338035866282754190/1341757652669173871/2025-02-19_20.04.14.png?ex=67b922f1&is=67b7d171&hm=6f56264ee4852ff73fe4ed60e44665e516b9a7a35fb07a70150497d56f11aeb0&=&format=webp&quality=lossless&width=805&height=453)
-### Thirst System
-![img](https://media.discordapp.net/attachments/1338035866282754190/1338035880169836605/image.png?ex=67b8c7c5&is=67b77645&hm=fd64a045b6c1daaa80909235817da538b6e6ccbd5a9c60b6f78eb9decf586929&=&format=webp&quality=lossless&width=550&height=85)
 
-Di server ini, pemain akan mengalami dehidrasi jika tidak minum air dalam waktu tertentu. Bar dehidrasi harus dijaga agar tidak kosong dengan cara meminum air langsung. Jika bar dehidrasi habis, pemain akan mulai kehilangan kesehatan.
+### 1. Thirst System
+![img](https://media.discordapp.net/attachments/1338035866282754190/1338035880169836605/image.png?ex=67bb6ac5&is=67ba1945&hm=79742b1677a6c10f081106488dbb0affe47fd06b62eecb9076f8548c1b23f659&=&format=webp&quality=lossless)
 
-### Semi-Hardcore Mode
-![img](https://media.discordapp.net/attachments/1338035866282754190/1338036167399968788/image.png?ex=67b8c809&is=67b77689&hm=a36a009b17e3e73fab123ec1a4fe2ecfaca5e8603a90cc74d568383970b3c015&=&format=webp&quality=lossless)
+Di server ini, pemain akan mengalami dehidrasi jika tidak minum air dalam waktu tertentu. Bar dehidrasi harus dijaga agar tidak kosong dengan cara meminum air langsung. Jika bar dehidrasi habis, pemain terkena effect slow. Cara mengisi bar dehidrasi adalah dengan meminum air yang berada di glass bottle, kamu juga bisa melakukan crafting untuk mendapatkan pure water maupun boiled water untuk pengisian bar yang lebih banyak.
 
-Mode ini menambahkan elemen survival yang lebih menantang. Pemain yang mati lebih dari tiga kali akan masuk ke mode Spectator dan tidak bisa respawn selama 8 jam. Hal ini mendorong pemain untuk lebih berhati-hati dalam setiap langkah mereka.
+#### Crafting
 
-### Proximity Chat (Java Only)
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCy2D3xAZg2tathcbUvS0DdClX2sHX59OWXQ&s)
+
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_Q1-Jf_PLQQGSFvPiOPmAKfwb2Q8ZqIiHcmqb0jsfYQzBZNKU5pEutC-yPdkqbqujg&usqp=CAU)
+
+
+### 2. Semi-Hardcore Mode
+![img](https://media.discordapp.net/attachments/1338334627936337940/1342535642797707314/2025-02-21_23.36.45.png?ex=67bb4ec0&is=67b9fd40&hm=f877c0db5dd0c0971f6e2d209975a55d055e6d2f31a5ad6e1db33d24fac7901f&=&format=webp&quality=lossless&width=861&height=452)
+
+Mode ini menambahkan elemen survival yang lebih menantang. Pemain yang mati lebih dari tiga kali akan masuk ke mode Spectator dan tidak bisa respawn selama 8 jam. Hal ini mendorong pemain untuk lebih berhati-hati dalam setiap langkah mereka. setelah 8 jam terlalui, pemain bisa melakukan permintaan untuk dihidupkan melalui discord.
+
+### 3. Proximity Voice Chat (Java Only)
 ![img](https://cdn.modrinth.com/data/9eGKb6K1/images/975131df603729941d6549a8e78fed1509bf0518.png)
 
-Fitur ini memungkinkan komunikasi suara berbasis jarak dalam game. Semakin dekat posisi pemain satu sama lain, semakin jelas suara yang didengar. Sebaliknya, suara akan semakin redup jika pemain menjauh. Fitur ini membuat interaksi lebih realistis dan strategis.
+Fitur ini memungkinkan komunikasi suara berbasis jarak dalam game. Semakin dekat posisi pemain satu sama lain, semakin jelas suara yang didengar. Sebaliknya, suara akan semakin redup jika pemain menjauh. Cara menggunakan fitur ini adalah dengan menginstall [Minecraft Fabric](https://fabricmc.net/) dan Mod [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat). Untuk tutorial cara menginstall menginstall fitur Proximity Voice Chat tersedia di Discord NUMI Community Indonesia.
 
-### Leveled Mobs
-![img](https://media.discordapp.net/attachments/1338035866282754190/1338037398692565062/image.png?ex=67b8c92f&is=67b777af&hm=f5db52bc4716009cfd4572d30072e7c64000a7d61d30cc202664c364ba4e134f&=&format=webp&quality=lossless&width=784&height=453)
+<img src="https://i.pinimg.com/736x/46/fe/0b/46fe0b868a8d4968ebed4f5619ebb76f.jpg" alt="thread" width="50%"/>
 
-Monster memiliki level yang berbeda-beda dan semakin kuat seiring meningkatnya level mereka. Selain itu, jumlah monster akan lebih banyak saat malam hari, menambah tantangan bagi pemain yang bermain di mode survival.
+### 4. Leveled Mobs
+![img](https://media.discordapp.net/attachments/1338334627936337940/1339911672365842474/image.png?ex=67bba63d&is=67ba54bd&hm=40a291f9b164d9181ef5891041b9c7b7b54f4f4fa7ffc180a60f3e3e7d5314b9&=&format=webp&quality=lossless&width=1280&height=720)
 
-### Fitur Duduk dan Tidur
-![img](https://techtactician.com/wp-content/uploads/2024/10/GSit.jpg?ezimgfmt=rs:382x219/rscb1)
+Monster memiliki level yang berbeda-beda dan semakin kuat seiring meningkatnya level mereka. Selain itu, jumlah monster akan lebih banyak saat malam hari, menambah tantangan bagi pemain yang bermain di mode survival. 
+> Tips & Trick: Segera dapatkan perlengkapan seperti Armor, Shield, dan Swords sedari awal!
 
-Untuk menambah kenyamanan dalam bermain, pemain dapat menggunakan perintah berikut:
+### 5. Fitur Duduk dan Tidur
+![img](https://techtactician.com/wp-content/uploads/2024/10/GSit.jpg?ezimgfmt=rs:1280x720/rscb1)
+
+Pemain dapat duduk maupun tidur pada platform block seperti stairs untuk menambah keseruan dalam bermain. Selain itu, pemain juga dapat duduk dan berbaring menggunakan commands: 
 
 - /sit untuk duduk
 - /lay untuk berbaring
 
-### True Ender Dragon
+### 6. True Ender Dragon
 ![img](https://cdn.modrinth.com/data/MCnBYP0b/images/e0e040e22d1232a8ad11d3d5716b9d259e7a526a.png)
 
 Ender Dragon dalam server ini telah dimodifikasi dengan mekanisme pertempuran yang lebih kompleks dan sulit dibandingkan versi standar. Pemain harus mempersiapkan strategi matang sebelum menghadapi boss ini.
 
-### Donatur Features
-![img](https://media.discordapp.net/attachments/1338035866282754190/1338039296837550110/image.png?ex=67b8caf3&is=67b77973&hm=3c65e0f7c9b843095bb016f1b83497f6dc12a005b9a3ef554a960666f08b2a9a&=&format=webp&quality=lossless&width=804&height=453)
+### 7. Donatur Features
+![img](https://media.discordapp.net/attachments/1338035866282754190/1338039296837550110/image.png?ex=67bb6df3&is=67ba1c73&hm=cb6fc7570e3e31d6d19d3e9e9f4e2d4aa2491b4c52e6d50dbd64fe9821f98e06&=&format=webp&quality=lossless&width=1280&height=720)
 
-Pemain yang berdonasi akan mendapatkan fitur eksklusif, termasuk:
+Untuk pemain yang berdonasi akan mendapat keuntungan cosmetic, tulisan rank khusus serta cooldown untuk revive lebih cepat. Fitur yang didapat oleh para donatur tidak berupa kemudahan dalam bermain untuk menciptakan suasana bermain yang tetap adil. Fitur yang didapat antara lain: 
 
 - Efek Particles dan Glowing pada skin
 - Cooldown revive lebih cepat
 - Rank khusus di dalam server
 
-### Cross-Platform Support
+### 8. Cross-Platform Support
+![img](https://media.discordapp.net/attachments/1334053467446182012/1337713725490331730/Screenshot_20250208-160946.jpg?ex=67bb903d&is=67ba3ebd&hm=6ed59cdd59624bd2ad418402d0145387d44a5613b28527e127dc2760ef8cfe40&=&format=webp&width=1025&height=450)
 
-Server ini mendukung berbagai versi Minecraft, termasuk:
-
-- Java Edition (Premium/Crack)
-- Bedrock Edition (Premium/Crack)
-
-Versi minimum untuk bergabung adalah 1.20+.
+Server ini mendukung berbagai versi Minecraft, baik Minecraft Java maupun Bedrock. Server juga mendukung pemain crack, namun resiko ditanggung oleh masing-masing. Server ini menggunakan versi latest pada Minecraft dan support backwards sehingga pemain dengan versi sebelumnya bisa bermain. Namun, tetap disarankan untuk menggunakan Minecraft versi latest ya.
 
 ---
 
