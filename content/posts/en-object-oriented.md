@@ -5,7 +5,7 @@ draft = false
 
 [taxonomies]
 categories = [ "2024" ]
-tags = [ "programming", "dart", "flutter", "oop" ]
+tags = [ "programming", "dart", "oop" ]
 +++
 
 ## What is Object Oriented Programming?
