@@ -12,7 +12,7 @@ tags = ["flutter", "linux", "low-end"]
 It may vary depending on the device, but in this post, I’m using Fedora Workstation 41 as an example. Feel free to adjust it according to your running OS."
 {% end %}
 
-{{ figure(src="https://github.com/shandikadav/shandikadav-serene/blob/main/public/images/developing-mobile-linux/header.png", alt="Neofetch", caption="Developing Mobile Apps using Linux") }}
+{{ figure(src="/images/developing-mobile-linux/header.png", alt="Neofetch", caption="Developing Mobile Apps using Linux") }}
 
 ## Introduction
 
