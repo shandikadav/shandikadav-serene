@@ -1,0 +1,24 @@
+[[collection]]
+type = "card"
+title = "Amikom Computer Club"
+subtitle = "Mobile Programming Division Instructor | HR Departement Coordinator | IT Department" # optional
+date = "Nov 2023 – Present"
+icon = "images/ic_amcc.png"
+content = "Actively involved in Amikom Computer Club through multiple impactful roles. As a Mobile Programming Division Instructor, I mentor members in building cross-platform mobile applications using Dart and Flutter. From Nov 2023 to Nov 2024, I served as Human Resource Coordinator, leading the HR team in managing training programs and overseeing the development of both members and staff. I am currently part of the IT Department, where I focus on driving collaborative research initiatives in technology alongside club members."
+tags = [
+    "Leadership",
+    "HumanResource",
+    "TechResearch ",
+    "CommunityDevelopment",
+] # optional
+featured = false
+
+[[collection]]
+type = "card"
+title = "Forum Asisten"
+subtitle = "Laboratory Asistant"                                                                                                                                                                                                                                                                                                                                                                           # optional
+date = "Sep 2023 - July 2024"                                                                                                                                                                                                                                                                                                                                                                              # optional
+icon = "images/ic_fa.png"                                                                                                                                                                                                                                                                                                                                                                                  # optional
+content = "Assisted Informatics students at Universitas Amikom Yogyakarta in various lab sessions, covering topics such as basic programming with C++, object-oriented programming with C#, Linux commands for Operating Systems, and practical data communication using Proteus, CVAVR, and Arduino. Helped students grasp core technical concepts through hands-on guidance and collaborative learning."
+tags = ["Teaching", "C++", "Linux", "Arduino", "Education"]                                                                                                                                                                                                                                                                                                                                                # optional
+featured = false                                                                                                                                                                                                                                                                                                                                                                                           # optional

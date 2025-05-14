@@ -1,0 +1,17 @@
+[[collection]]
+type = "card_simple"
+title = "Bangkit Academy 2024 Batch 2"
+date = "Sep 2024 - Des 2024"
+link = "https://grow.google/intl/id_id/bangkit/?tab=machine-learning"
+icon = "images/ic_bangkit.png"
+content = "Cloud Computing Cohort"
+featured = false
+
+[[collection]]
+type = "card_simple"
+title = "University of Amikom Yogyakarta"
+date = "Sep 2022 - Present"
+link = "https://home.amikom.ac.id/"
+icon = "images/ic_amikom.png"
+content = "Informatics Students"
+featured = false

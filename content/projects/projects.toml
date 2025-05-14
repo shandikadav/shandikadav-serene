@@ -1,20 +1,20 @@
 [[collection]]
 type = "card"
-title = "seimbang.in"
+title = "Seimbang.in"
 link = "https://github.com/seimbang-in"
-content = "Seimbang.in is a money management mobile app that leverages AI technology to help Indonesians improve their financial management. By providing personalized tips, scanning receipts with OCR, and offering simple yet effective financial advice, Seimbang.in makes building good money habits easier. Our ultimate goal is to empower users to achieve financial stability and long-term success."
+content = "A smart money management app powered by AI and OCR to help Indonesians build better financial habits with personalized insights."
 tags = ["mobile-app", "ai", "bangkit-academy"]
 
 [[collection]]
 type = "card"
-title = "jogjatour_app"
+title = "Jogjatour"
 link = "https://github.com/shandikadav/jogjatour_app"
-content = "Jogjatour is a mobile application designed to provide comprehensive information about tourist attractions in Yogyakarta, catering to students, tourists, and locals. The app aims to promote awareness of Yogyakarta's destinations while supporting local tourism businesses."
+content = "A tourism app that showcases Yogyakarta's attractions to students, travelers, and locals, supporting exploration and local businesses."
 tags = ["mobile-app", "flutter"]
 
 [[collection]]
 type = "card"
-title = "eresource_app"
+title = "e-Resource"
 link = "https://github.com/shandikadav/eresource_app.git"
-content = "Eresource App is a library application based on the Resource Center library at Universitas Amikom Yogyakarta. We believe the facilities provided by the Resource Center can be utilized more effectively through a mobile-based application system. This project focuses solely on the Front-End Mobile App, developed using Flutter, and is created for a competition held by IITC Universitas Amikom Purwokerto."
+content = "A mobile library app built with Flutter to enhance access to Amikom's Resource Center, developed for an inter-campus competition."
 tags = ["mobile-app", "flutter"]

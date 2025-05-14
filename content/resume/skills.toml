@@ -1,0 +1,63 @@
+[[collection]]
+type = "entry"
+title = "Dart"                                                             # optional
+icon = "https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" # optional
+
+[[collection]]
+type = "entry"
+title = "PHP"                                                                                           # optional
+icon = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" # optional
+
+[[collection]]
+type = "entry"
+title = "Javascript"                                                             # optional
+icon = "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" # optional
+
+[[collection]]
+type = "entry"
+title = "Rust"                                                                                                                                                  # optional
+subtitle = "currently learning"
+icon = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" # optional
+
+[[collection]]
+type = "entry"
+title = "Shell Script"                                                                                                                                                # optional
+subtitle = "currently learning"
+icon = "https://w7.pngwing.com/pngs/48/567/png-transparent-bash-shell-script-command-line-interface-z-shell-shell-rectangle-logo-commandline-interface-thumbnail.png" # optional
+
+[[collection]]
+type = "entry"
+title = "Flutter"                                                        # optional
+icon = "https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" # optional
+
+[[collection]]
+type = "entry"
+title = "Tailwind"                                                                                                        # optional
+subtitle = "currently learning"
+icon = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" # optional
+
+[[collection]]
+type = "entry"
+title = "Laravel"                                                                    # optional
+subtitle = "currently learning"
+icon = "https://static-00.iconduck.com/assets.00/laravel-icon-995x1024-dk77ahh4.png" # optional
+
+[[collection]]
+type = "entry"
+title = "Nodejs"                                                                      # optional
+icon = "https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" # optional
+
+[[collection]]
+type = "entry"
+title = "Docker"                                                                                  # optional
+icon = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" # optional
+
+[[collection]]
+type = "entry"
+title = "Google Cloud"                                                                     # optional
+icon = "https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" # optional
+
+[[collection]]
+type = "entry"
+title = "Linux"                              # optional
+icon = "https://pngimg.com/d/linux_PNG1.png" # optional

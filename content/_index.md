@@ -10,7 +10,7 @@ footer = false
 # If you don't want to display id/bio/avatar, simply comment out that line
 name = "Shandika David Ardiansyah"
 id = "shandikadav"
-bio = "Multi-platform developer"
+bio = "Flutter developer"
 avatar = "images/avatar.png"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/shandikadav" },
@@ -28,9 +28,9 @@ date_format = "%b %-d, %Y"
 
 ## About Me
 
-**Anime**, **Music**, and **Cloud Computing** enthusiast. **A multi-platform developer** specializing in **Flutter**, building seamless experiences across mobile, web, and desktop. Currently navigating the world of coding while figuring out how to summon my favorite anime character. Informatics student at Amikom University Yogyakarta.
+Anime, Music, and Cloud Computing enthusiast. An Informatics student at Amikom University Yogyakarta and a Flutter developer crafting cross-platform apps with a sprinkle of magic. Still trying to debug life while dreaming of deploying code from an isekai.
 
 ## Writing & Social
 
-Tech geek who loves diving into **mobile dev** and **cloud computing**. Sharing cool tips and fresh trends while figuring out how to debug life.
+Mobile dev by day, cloud dreamer by night. Sharing tips, code, and chaos—one bug fix at a time.
 <br><br>[MEDIUM](https://shanardiansyah.medium.com/) // [YOUTUBE](https://www.youtube.com/@shandikadav)

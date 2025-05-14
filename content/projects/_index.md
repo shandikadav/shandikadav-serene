@@ -5,7 +5,7 @@ template = "prose.html"
 
 [extra]
 title = "Projects"
-subtitle = "Some cool projects I made"
+subtitle = "A collection of things I’ve built—some practical, some experimental, all made with passion."
 +++
 
 {{ collection(file="projects.toml") }}
