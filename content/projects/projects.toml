@@ -1,20 +1,42 @@
 [[collection]]
 type = "card"
-title = "Seimbang.in"
-link = "https://github.com/seimbang-in"
-content = "A smart money management app powered by AI and OCR to help Indonesians build better financial habits with personalized insights."
-tags = ["mobile-app", "ai", "bangkit-academy"]
+title = "UCAP"
+link = "https://github.com/shandikadav/ucap_app.git"
+content = "Ucap is an interactive mobile learning platform designed to help Indonesian care leavers transition into independent life. Built in just 30 hours for Garuda Hacks 6.0, Ucap empowers young adults with life skills through simulation, knowledge sharing, and gamification."
+tags = ["mobile-app", "flutter", "education-equity"]
 
 [[collection]]
 type = "card"
-title = "Jogjatour"
-link = "https://github.com/shandikadav/jogjatour_app"
-content = "A tourism app that showcases Yogyakarta's attractions to students, travelers, and locals, supporting exploration and local businesses."
-tags = ["mobile-app", "flutter"]
+title = "Shandikadav's Personal Blog"
+link = "https://github.com/shandikadav/shandikadav-serene.git"
+content = "My personal website, built with the Zola static site generator and the Serene theme."
+tags = ["website", "zola", "blog"]
+
+[[collection]]
+type = "card"
+title = "Seimbang.in"
+link = "https://github.com/seimbang-in"
+content = "A mobile financial management application designed to improve the financial literacy and habits of students and Gen Z in Indonesia through easy expense tracking, AI-powered advice, and other innovative features."
+tags = ["mobile-app", "flutter", "ai-advisor"]
+
+[[collection]]
+type = "card"
+title = "Simple Note App"
+link = "https://github.com/shandikadav/intermediate-mobile-amcc24.git"
+content = "A simple note-taking app for the AMCC Intermediate Class of 2024, built using Flutter, Firebase, and the BLoC state management pattern."
+tags = ["mobile-app", "flutter", "firebase"]
+
 
 [[collection]]
 type = "card"
 title = "e-Resource"
 link = "https://github.com/shandikadav/eresource_app.git"
 content = "A mobile library app built with Flutter to enhance access to Amikom's Resource Center, developed for an inter-campus competition."
+tags = ["mobile-app", "flutter"]
+
+[[collection]]
+type = "card"
+title = "Jogjatour"
+link = "https://github.com/shandikadav/jogjatour_app"
+content = "A tourism app that showcases Yogyakarta's attractions to students, travelers, and locals, supporting exploration and local businesses."
 tags = ["mobile-app", "flutter"]
