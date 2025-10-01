@@ -5,6 +5,11 @@ icon = "/images/ic_dart.png"
 
 [[collection]]
 type = "entry"
+title = "Kotlin"
+icon = "/images/ic_kotlin.png"
+
+[[collection]]
+type = "entry"
 title = "PHP"
 icon = "/images/ic_php.png"
 
@@ -17,6 +22,11 @@ icon = "/images/ic_js.png"
 type = "entry"
 title = "Flutter"
 icon = "/images/ic_flutter.png"
+
+[[collection]]
+type = "entry"
+title = "Jetpack Compose"
+icon = "/images/ic_jetpackcompose.png"
 
 [[collection]]
 type = "entry"
@@ -33,30 +43,21 @@ type = "entry"
 title = "Google Cloud"
 icon = "/images/ic_gcp.png"
 
-[[collection]]
-type = "entry"
-title = "AWS"
-icon = "/images/ic_aws.png"
 
 [[collection]]
 type = "entry"
 title = "Linux"
 icon = "/images/ic_linux.png"
 
-[[collection]]
-type = "entry"
-title = "Rust"   
-subtitle = "currently learning"
-icon = "/images/ic_rust.png" 
-
-[[collection]]
-type = "entry"
-title = "Tailwind"
-subtitle = "currently learning"
-icon = "/images/ic_tailwind.png"
 
 [[collection]]
 type = "entry"
 title = "Laravel"
 subtitle = "currently learning"
 icon = "/images/ic_laravel.png"
+
+[[collection]]
+type = "entry"
+title = "AWS"
+subtitle = "currently learning"
+icon = "/images/ic_aws.png"

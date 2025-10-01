@@ -1,6 +1,6 @@
 +++
 title = "Posts"
-description = "My blog, sharing my random explorations in learning technology."
+description = "I write about code, creativity, and everything in between. Sometimes useful, sometimes just for fun."
 sort_by = "date"
 template = "blog.html"
 page_template = "post.html"
@@ -23,6 +23,6 @@ copy = true # show copy button in code block
 
 outdate_alert = false
 outdate_alert_days = 12
-outdate_alert_text_before = "This article was last updated "
+outdate_alert_text_before = "This article was last updated "    
 outdate_alert_text_after = " days ago and may be out of date."
 +++
