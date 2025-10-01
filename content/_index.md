@@ -28,9 +28,9 @@ date_format = "%b %-d, %Y"
 
 ## About Me
 
-An Anime, Music, and Cloud Computing enthusiast. I'm an Informatics student at Amikom University Yogyakarta who transforms into an Android Developer by day (and sometimes by night).
+An Anime, Music, and Cloud Computing enthusiast. I'm an Informatics student at Amikom University Yogyakarta who transforms into an **Android Developer** by day (and sometimes by night).
 
-My passion is to craft exceptional mobile applications, whether it's using Flutter to build magical cross-platform experiences or with Jetpack Compose to assemble modern, high-performance native Android UIs.
+My passion is to craft exceptional mobile applications, whether it's using **Flutter** to build magical cross-platform experiences or with **Jetpack Compose** to assemble modern, high-performance native Android UIs.
 
 When I'm not coding, I'm probably trying to debug life or dreaming of deploying code from an isekai.
 
