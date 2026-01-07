@@ -10,7 +10,7 @@ footer = false
 # If you don't want to display id/bio/avatar, simply comment out that line
 name = "Shandika David Ardiansyah"
 id = "shandikadav"
-bio = "Android Developer"
+bio = "Mobile Developer"
 avatar = "images/avatar.png"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/shandikadav" },
@@ -28,11 +28,11 @@ date_format = "%b %-d, %Y"
 
 ## About Me
 
-An Anime, Music, and Cloud Computing enthusiast. I'm an Informatics student at Amikom University Yogyakarta who transforms into an **Android Developer** by day (and sometimes by night).
+I’m an Informatics student at **Amikom University Yogyakarta** who lives at the intersection of **mobile development**, **music**, **and a bit of anime energy**. By day (and sometimes late at night), I work as an **Android Developer**, turning ideas into polished mobile experiences.
 
-My passion is to craft exceptional mobile applications, whether it's using **Flutter** to build magical cross-platform experiences or with **Jetpack Compose** to assemble modern, high-performance native Android UIs.
+I love building apps with **Flutter** to create smooth cross-platform journeys and using **Jetpack Compose** to craft modern, high-performance Android UIs. These days, my playlist—and my tech stack—are evolving as I explore the **Apple ecosystem**, learning **Swift** and backend development with **Vapor**.
 
-When I'm not coding, I'm probably trying to debug life or dreaming of deploying code from an isekai.
+When I’m not coding, you’ll probably find me vibing to **AZKi**, **watching anime**, or **debugging life** while thinking about better architecture and cleaner code. I believe great software is like good music: well-structured, expressive, and meant to be enjoyed.
 
 ## Writing & Social
 

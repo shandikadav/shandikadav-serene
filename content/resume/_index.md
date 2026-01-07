@@ -9,9 +9,11 @@ subtitle = "A quick peek into my skills, experiences, and the journey so far. Ba
 +++
 
 ## About
-As a passionate **Android Developer**, I focus on designing and building mobile applications that deliver an exceptional user experience through clean code and solid architecture. I am currently an Informatics student at Universitas Amikom Yogyakarta.
+I am a passionate Mobile Developer dedicated to building applications that are not just functional, but also provide an exceptional user experience through intuitive design and clean code.
 
-My expertise is centered on two modern approaches: cross-platform development using **Flutter** and native development with **Jetpack Compose**. This expertise is supported by an understanding of cloud services to ensure connected and reliable applications. I thrive in collaborative environments, applying critical thinking to continuously learn and contribute to impactful projects.
+To bring this vision to life, I specialize in the modern Android development landscape. I use Flutter for its power in creating beautiful, consistent cross-platform applications, and I dive deep into Jetpack Compose to build fluid, high-performance native UIs that feel truly at home on Android.
+
+As an Informatics student at Universitas AMIKOM Yogyakarta, I am eager to apply my problem-solving skills to real-world challenges. I am looking for opportunities to collaborate with innovative teams and contribute to projects that push the boundaries of mobile technology.
 
 ## Skills
 {{ collection(file="skills.toml")}}
