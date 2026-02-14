@@ -1,5 +1,12 @@
 [[collection]]
 type = "card"
+title = "NUMI Community Website"
+link = "https://numicommunity.web.id"
+content = "The official web platform for NUMI, a gaming community growing into a digital brand. Built using React, TypeScript, and TailwindCSS, this project focuses on structured UI architecture, scalable components, and modern design principles. It acts as a foundation for future expansion including events, collaborations, and potential product initiatives under the NUMI ecosystem."
+tags = ["web-platform", "react", "typescript", "tailwindcss", "brand"]
+
+[[collection]]
+type = "card"
 title = "UCAP"
 link = "https://github.com/shandikadav/ucap_app.git"
 content = "Ucap is an interactive mobile learning platform designed to help Indonesian care leavers transition into independent life. Built in just 30 hours for Garuda Hacks 6.0, Ucap empowers young adults with life skills through simulation, knowledge sharing, and gamification."

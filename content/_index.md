@@ -11,7 +11,7 @@ footer = false
 name = "Shandika David Ardiansyah"
 id = "shandikadav"
 bio = "Mobile Developer"
-avatar = "images/avatar.png"
+avatar = "images/avatar.jpg"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/shandikadav" },
     { name = "Instagram", icon = "instagram", url = "https://instagram.com/shandikadav_" },
@@ -28,14 +28,20 @@ date_format = "%b %-d, %Y"
 
 ## About Me
 
-I’m an Informatics student at **Amikom University Yogyakarta** who lives at the intersection of **mobile development**, **music**, **and a bit of anime energy**. By day (and sometimes late at night), I work as an **Android Developer**, turning ideas into polished mobile experiences.
+I’m an Informatics student at **Amikom University Yogyakarta** and a mobile developer focused on building clean, well-structured apps.
 
-I love building apps with **Flutter** to create smooth cross-platform journeys and using **Jetpack Compose** to craft modern, high-performance Android UIs. These days, my playlist—and my tech stack—are evolving as I explore the **Apple ecosystem**, learning **Swift** and backend development with **Vapor**.
+Currently part of the **Apple Developer Academy @ UC Jakarta — Cohort 2026**, I’m expanding into the Apple ecosystem with **Swift**, **Vapor**, and soon **SwiftUI** for iOS development.
 
-When I’m not coding, you’ll probably find me vibing to **AZKi**, **watching anime**, or **debugging life** while thinking about better architecture and cleaner code. I believe great software is like good music: well-structured, expressive, and meant to be enjoyed.
+My background includes Android (Jetpack Compose) and Flutter, with a strong interest in clean architecture and scalable systems.
+
+I daily drive Linux (Fedora KDE), enjoy working close to the system, and treat both personal projects and community infrastructure with production-level thinking.
+
+Outside of code, I build **NUMI** — a gaming community evolving into a brand — while continuously exploring better ways to design, build, and ship software.
+
+---
 
 ## Writing & Social
 
-**A Developer's Logbook.**<br>
-My coding adventures in Flutter and Jetpack Compose. Filled with code, chaos, and hard-won lessons along the way.
-<br><br>[MEDIUM](https://shanardiansyah.medium.com/) // [YOUTUBE](https://www.youtube.com/@shandikadav)
+Notes on mobile development, system design, and building in public.
+
+[MEDIUM](https://shanardiansyah.medium.com/) // [YOUTUBE](https://www.youtube.com/@shandikadav)
