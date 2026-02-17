@@ -1,8 +1,17 @@
 [[collection]]
 type = "card_simple"
+title = "Apple Developer Academy @ UC Jakarta"
+date = "Mar 2026 - Present"
+link = "https://developeracademy.apps.binus.ac.id/"
+icon = "images/ic_appledev.webp"
+content = "Cohort 2026"
+featured = true
+
+[[collection]]
+type = "card_simple"
 title = "Bangkit Academy 2024 Batch 2"
 date = "Sep 2024 - Des 2024"
-link = "https://grow.google/intl/id_id/bangkit/?tab=machine-learning"
+link = "https://id.wikipedia.org/wiki/Bangkit_Academy"
 icon = "images/ic_bangkit.png"
 content = "Cloud Computing Cohort"
 featured = false

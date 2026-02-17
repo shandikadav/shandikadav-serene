@@ -10,11 +10,6 @@ icon = "/images/ic_kotlin.png"
 
 [[collection]]
 type = "entry"
-title = "PHP"
-icon = "/images/ic_php.png"
-
-[[collection]]
-type = "entry"
 title = "Javascript"  
 icon = "/images/ic_js.png"
 
@@ -30,7 +25,7 @@ icon = "/images/ic_jetpackcompose.png"
 
 [[collection]]
 type = "entry"
-title = "Nodejs"
+title = "ExpressJs"
 icon = "/images/ic_nodejs.png"
 
 [[collection]]
@@ -49,12 +44,35 @@ type = "entry"
 title = "Linux"
 icon = "/images/ic_linux.png"
 
+[[collection]]
+type = "entry"
+title = "PHP"
+subtitle = "currently learning"
+icon = "/images/ic_php.png"
+
+[[collection]]
+type = "entry"
+title = "Swift"
+subtitle = "currently learning"
+icon = "/images/ic_swift.png"
+
+[[collection]]
+type = "entry"
+title = "SwiftUI"
+subtitle = "currently learning"
+icon = "/images/ic_swiftui.png"
 
 [[collection]]
 type = "entry"
 title = "Laravel"
 subtitle = "currently learning"
 icon = "/images/ic_laravel.png"
+
+[[collection]]
+type = "entry"
+title = "Vapor"
+subtitle = "currently learning"
+icon = "/images/ic_vapor.png"
 
 [[collection]]
 type = "entry"

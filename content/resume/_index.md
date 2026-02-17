@@ -9,11 +9,13 @@ subtitle = "A quick peek into my skills, experiences, and the journey so far. Ba
 +++
 
 ## About
-I am a passionate Mobile Developer dedicated to building applications that are not just functional, but also provide an exceptional user experience through intuitive design and clean code.
+I am a Mobile Developer focused on building clean, scalable, and well-structured applications. I care deeply about thoughtful architecture, maintainable systems, and creating products that feel intentional.
 
-To bring this vision to life, I specialize in the modern Android development landscape. I use Flutter for its power in creating beautiful, consistent cross-platform applications, and I dive deep into Jetpack Compose to build fluid, high-performance native UIs that feel truly at home on Android.
+Currently part of the **Apple Developer Academy @ UC Jakarta — Cohort 2026**, I am expanding into the Apple ecosystem with **Swift**, backend development using **Vapor**, and preparing to build iOS applications with **SwiftUI**.
 
-As an Informatics student at Universitas AMIKOM Yogyakarta, I am eager to apply my problem-solving skills to real-world challenges. I am looking for opportunities to collaborate with innovative teams and contribute to projects that push the boundaries of mobile technology.
+My foundation comes from modern Android development using **Jetpack Compose**, along with cross-platform development using **Flutter**. Beyond mobile, I am interested in system design and backend architecture, constantly refining how I think about software at scale.
+
+I daily drive Linux (Fedora KDE), which shapes how I approach tooling, workflows, and infrastructure. Outside of personal development, I am also the founder of **NUMI Community**, a gaming community evolving into a brand, where I explore leadership, collaboration, and technical infrastructure.
 
 ## Skills
 {{ collection(file="skills.toml")}}
