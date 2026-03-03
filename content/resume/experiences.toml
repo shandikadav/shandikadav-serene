@@ -2,7 +2,7 @@
 type = "card"
 title = "Amikom Computer Club"
 subtitle = "Mobile Programming Division Instructor | HR Departement Coordinator | IT Department" # optional
-date = "Nov 2023 – Present"
+date = "Nov 2023 – Nov 2025"
 icon = "images/ic_amcc.png"
 content = "Actively involved in Amikom Computer Club through multiple impactful roles. As a Mobile Programming Division Instructor, I mentor members in building cross-platform mobile applications using Dart and Flutter. From Nov 2023 to Nov 2024, I served as Human Resource Coordinator, leading the HR team in managing training programs and overseeing the development of both members and staff. I am currently part of the IT Department, where I focus on driving collaborative research initiatives in technology alongside club members."
 tags = [
