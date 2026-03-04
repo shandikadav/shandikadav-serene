@@ -1,5 +1,12 @@
 [[collection]]
 type = "card"
+title = "AZKi Splash — Plasma 6 Ready"
+link = "https://github.com/shandikadav/azki-splash"
+content = "A custom animated splash screen for KDE Plasma 6 featuring AZKi. This project replaces the default static splash with a lightweight, Plasma 6–compatible animation, showcasing desktop theming and Linux environment customization. Built and manually packaged for local installation within the KDE look-and-feel system."
+tags = ["linux", "qml", "kde", "plasma-6", "theming", "open-source"]
+
+[[collection]]
+type = "card"
 title = "NUMI Community Website"
 link = "https://numicommunity.web.id"
 content = "The official web platform for NUMI, a gaming community growing into a digital brand. Built using React, TypeScript, and TailwindCSS, this project focuses on structured UI architecture, scalable components, and modern design principles. It acts as a foundation for future expansion including events, collaborations, and potential product initiatives under the NUMI ecosystem."
