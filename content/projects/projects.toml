@@ -1,5 +1,12 @@
 [[collection]]
 type = "card"
+title = "AwesomeMovies"
+link = "https://github.com/shandikadav/AwesomeMovie"
+content = "AwesomeMovies is an iOS movie database application built with SwiftUI. The app provides a clean and modern interface for exploring movie information, focusing on intuitive navigation and a native Apple ecosystem experience. This project explores SwiftUI fundamentals while building a simple and elegant movie discovery interface."
+tags = ["ios-app", "swift", "swiftui", "movie-database", "apple-ecosystem"]
+
+[[collection]]
+type = "card"
 title = "AZKi Splash — Plasma 6 Ready"
 link = "https://github.com/shandikadav/azki-splash"
 content = "A custom animated splash screen for KDE Plasma 6 featuring AZKi. This project replaces the default static splash with a lightweight, Plasma 6–compatible animation, showcasing desktop theming and Linux environment customization. Built and manually packaged for local installation within the KDE look-and-feel system."
