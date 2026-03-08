@@ -14,6 +14,13 @@ tags = ["web-platform", "react", "typescript", "tailwindcss", "brand"]
 
 [[collection]]
 type = "card"
+title = "Habis.in"
+link = "https://github.com/Habis-in/habisin-mobile-app"
+content = "Habis.in is a digital marketplace concept built during the Refactory × Universitas Amikom Yogyakarta Hackathon. Developed in just 48 hours using the required tech stack (Kotlin and Jetpack Compose), the app tackles food waste by partnering with bakeries and cafés to sell surplus bread nearing its expiration date through a 'surprise box' system—allowing customers to purchase discounted mystery bundles while helping reduce waste."
+tags = ["hackathon", "mobile-app", "kotlin", "jetpack-compose", "food-waste"]
+
+[[collection]]
+type = "card"
 title = "UCAP"
 link = "https://github.com/shandikadav/ucap_app.git"
 content = "Ucap is an interactive mobile learning platform designed to help Indonesian care leavers transition into independent life. Built in just 30 hours for Garuda Hacks 6.0, Ucap empowers young adults with life skills through simulation, knowledge sharing, and gamification."
