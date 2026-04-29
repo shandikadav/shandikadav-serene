@@ -1,5 +1,13 @@
 [[collection]]
 type = "card"
+title = "Hola Dawg"
+link = "https://github.com/shandikadav/holadawg_app"
+content = "iOS app built with SwiftUI that help beginner to practice conversation in foreign language by matching them with fluent speaker (An Apple Developer Academy Project)"
+tags = ["ios-app", "swift", "swiftui"]
+
+
+[[collection]]
+type = "card"
 title = "AwesomeMovies"
 link = "https://github.com/shandikadav/AwesomeMovie"
 content = "AwesomeMovies is an iOS movie database application built with SwiftUI. The app provides a clean and modern interface for exploring movie information, focusing on intuitive navigation and a native Apple ecosystem experience. This project explores SwiftUI fundamentals while building a simple and elegant movie discovery interface."
